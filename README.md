@@ -12,3 +12,7 @@
 <p align="center">
   <img src="http://i.imgur.com/3i1whpC.png" />
 </p>
+
+
+Free To Use :D ! 
+Thanks :v
