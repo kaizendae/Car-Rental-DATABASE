@@ -1,6 +1,6 @@
 # Car-Rental-DATABASE
 
-> That's the database project for the car rental system  : https://github.com/iElasri/CarRental
+> car rental system  : https://github.com/iElasri/CarRental
 
 # Contains :
 
@@ -17,6 +17,5 @@
 Free To Use :D ! 
 Thanks :v
 
-Free To Use :D ! 
-<br>Thanks :v
+
 <br>Star it
